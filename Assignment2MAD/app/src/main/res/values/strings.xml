@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Assignment2MAD</string>
+
+    <!--admin-->
+    <string name="adminUsername">username</string>
+    <string name="adminPassword">password</string>
+
+    <!--student fields-->
+    <string name="fullName">Full name</string>
+    <string name="Dob">Date of birth</string>
+    <string name="sEmail">School Email</string>
+    <string name="studentPassword">Password</string>
+    <string name="PostDesc">Write your caption for the post.</string>
+    <string name="CommentDesc">Add your comment for the post.</string>
+
+
+</resources>
